@@ -1,4 +1,4 @@
-# Poker GUI (ver2)
+# Poker GUI (ver2/Work in Progress)
 
 A simple Texas Hold'em poker GUI built with Python and Tkinter.
 This version focuses on visualizing cards using image files.
