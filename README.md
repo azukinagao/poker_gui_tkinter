@@ -61,3 +61,7 @@ python PokerGUI.py
 ## Notes
 - The bot's hand is currently visible for development and debugging.
 - This version is a GUI prototype and will be extended in future versions.
+- This project was developed with the assistance of generative AI tools.
+
+## Motivation
+Originally, I had only worked with Python in a procedural style. Through my research, I was introduced to object-oriented languages. To better understand how classes are used in practice, I created this project using a class-based design in Python.
